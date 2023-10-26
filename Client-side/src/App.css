@@ -8,6 +8,7 @@ body{
 }
 .main-login{
   position: relative;
+  
   margin: 0 auto;
   margin-top: 10vh;
   height:50vh !important ;
@@ -23,7 +24,8 @@ body{
 .dashboard {
   text-align: center;
   padding: 20px;
-  background-color:#FFFFFF;
+  background-color: whitesmoke;
+  /* background:linear-gradient(to left top, rgb(255, 0, 0), rgb(0, 145, 255)); */
 }
 
 .story-list {
@@ -64,4 +66,7 @@ body{
 
 .card-text {
   font-size: 1rem;
+}
+a {
+  text-decoration: none;
 }
