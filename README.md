@@ -2,7 +2,8 @@
 
 NewYorkTimes-MERN is a web application that provides users with access to the top stories from the New York Times. It is built using the MERN stack (MongoDB, Express, React, Node.js) and consists of three main pages: Login, Signup, and Dashboard. The Dashboard page displays the top stories about the world.
 
-<img  src="https://media.markup.io/green/project-images/7622337c-91fe-4c7d-900d-d82399f00b25/6c7b4e5f-1a3a-4190-9102-750b28ff2e69/44a9e3ff-0312-409f-8095-43ef8f59d43d.png"/>
+![Dashboard Screenshot]([https://example.com/path/to/your/screenshot.png](https://media.markup.io/green/project-images/7622337c-91fe-4c7d-900d-d82399f00b25/6c7b4e5f-1a3a-4190-9102-750b28ff2e69/44a9e3ff-0312-409f-8095-43ef8f59d43d.png))
+
 
 ## Features
 
