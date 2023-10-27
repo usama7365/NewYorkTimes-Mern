@@ -51,7 +51,9 @@ Technologies Used:
                   JWT (JSON Web Tokens)
 
 Author:
-       Usama Aamir
+       
+       
+ Usama Aamir
 
 License:
         MIT
