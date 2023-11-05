@@ -28,12 +28,12 @@ To run the application locally, follow these steps:
   git clone https://github.com/yourusername/NewYorkTimes-MERN.git
 
 
-Start the server:
+## Start the server:
                  cd server
                  npm install
                  npm start
 
-Start the client:
+## Start the client:
                  cd Client-side
                  npm install
                  npm run start
@@ -41,7 +41,7 @@ Start the client:
 
 Access the application in your web browser at http://localhost:3000.
 
-Technologies Used:
+## Technologies Used:
                   MongoDB
                   Express.js
                   React
