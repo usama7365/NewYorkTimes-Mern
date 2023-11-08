@@ -39,7 +39,8 @@ To run the application locally, follow these steps:
                  npm run start
 
 
-Access the application in your web browser at http://localhost:3000.
+Access the application in your web browser at 
+**http://localhost:3000.**
 
 ## Technologies Used:
                   MongoDB
@@ -53,7 +54,7 @@ Access the application in your web browser at http://localhost:3000.
 Author:
        
        
- Usama Aamir
+ Usama Aamir(usama-Dev)
 
 License:
         MIT
