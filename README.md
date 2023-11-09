@@ -8,7 +8,7 @@ NewYorkTimes-MERN is a web application that provides users with access to the to
 - Top Stories: The Dashboard page displays top stories from the New York Times API.
 - Responsive Design: The application is designed to work well on both desktop and mobile devices.
 
-## Pages
+## Pages:
 
 ### Login
 The Login page allows registered users to log in to their accounts. It includes a form for entering their email and password.
